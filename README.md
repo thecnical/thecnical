@@ -1,6 +1,26 @@
-# 💫 About Me:
- Chandan Pandey<br><br>## Personal Information<br>- **Name**: Chandan Pandey<br>- **Role**: AI-Powered Full Stack Developer & Cyber Security Expert<br>- **Location**: Azamgarh, Uttar Pradesh, India<br>- **Email**: chandanabhay458@gmail.com<br>- **Phone**: +91 8090912278<br>- **Availability**: Available for freelance<br><br>## Professional Summary<br>Chandan is a passionate developer with **1.5+ years of web development experience** and **9-10 months of hands-on expertise in AI-assisted development** using tools like Cursor and Zencoder. He specializes in building secure, intelligent applications by combining MERN stack proficiency with robust cybersecurity practices.<br><br>## Education<br>- **Bachelor of Computer Applications (BCA)**: Shibli National College (2022 - 2025)<br><br>## Technical Skills<br>- **AI-Powered Development**: Cursor AI, Zencoder AI Tools, AI Code Generation, AI-Assisted Debugging.<br>- **MERN Stack**: React.js, Node.js, MongoDB, Express.js.<br>- **Cyber Security & Forensics**: Ethical Hacking (CEH), Digital Forensics (CEF), UPIFS Cyber Forensic, Secure Coding.<br>- **Web Technologies**: HTML5/CSS3, JavaScript ES6+, Git/GitHub, Responsive Design.<br><br>## Certifications<br>- **Certified Ethical Hacker (CEH)**: Defronix (2023 - 2024)<br>- **Certified Ethical Forensics (CEF)**: 2025<br>- **UPIFS Cyber Forensic**: Law Enforcement (2025)<br>- **AI-Based Full Stack Development**: Cursor & Zencoder (2024 - 2025)<br>- **MERN Stack Development**: YouTube Learning (2022 - 2023)<br><br>## Notable Projects<br>- **Secure Authentication System**: Built with Node.js, Express, JWT, and advanced encryption.<br>- **E-Commerce Platform**: Full-featured MERN stack app with secure payment integration.<br>- **Vulnerability Scanner**: Automated tool for scanning web applications (Python/JavaScript).<br>- **AI Career Mentor**: Intelligent platform for career guidance in tech.<br>- **AI Code Assistant & Generator**: Leverages AI to generate and debug code across multiple languages.<br>- **GitHacks**: A cybersecurity learning platform for ethical hacking training.<br>- **Secure Banking App**: Mobile app with biometric authentication and real-time transactions.<br><br>## Experience<br>- **AI-Powered Full Stack Developer (Freelance)**: 2023 - Present.<br>- **Full Stack Web Developer (Self-Taught)**: 2022 - Present.<br>
-
+# 💫 About Me<br>
+Hi 👋 I'm **Chandan Pandey**, an **AI-Powered Full Stack Developer** and **Cyber Security enthusiast** from India 🇮🇳.<br>
+I build **secure, scalable, and intelligent web applications** using the **MERN stack**, **AI-assisted development**, and **cybersecurity best practices**.<br><br>
+## ⚡ What I Do<br>
+- 🔐 Secure Web & API Development<br>
+- 🤖 AI-assisted Coding & Automation<br>
+- 🌐 Full-Stack MERN Applications<br>
+- 🛡️ Ethical Hacking & Secure Coding<br><br>
+## 🧠 Tech Stack<br>
+- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)<br>
+- **Backend:** Node.js, Express.js<br>
+- **Database:** MongoDB<br>
+- **AI Tools:** Cursor AI, Zencoder<br>
+- **Security:** CEH, Digital Forensics, Secure Coding<br>
+- **Tools:** Git, GitHub, Linux<br><br>
+## 🚀 Key Projects<br>
+- 🔐 Secure Authentication System (JWT, Encryption)<br>
+- 🛒 MERN E-Commerce Platform (Secure Payments)<br>
+- 🕵️ Vulnerability Scanner (Python/JavaScript)<br>
+- 🤖 AI Code Assistant & Generator<br>
+- 🧠 GitHacks – Cybersecurity Learning Platform<br><br>
+## 🤝 Open For<br>
+Freelance • Collaboration • AI & Cybersecurity Projects<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100023920283097) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanatani_abhaypandit_official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-pandey-5b255a3aa)
